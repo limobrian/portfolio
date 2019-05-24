@@ -15,35 +15,41 @@ body{
     
 }
 .img{
-    border-radius: 0%;
+    
     margin-left: 5%;
-    width: 300px;
+    width: 900px;
     
     padding: 50px;
     margin: 20px; 
+    
+
 }
 .name{
-    margin-left: 15%;
+    margin-left: 12%;
 }
 .exp{
     float: right;  
-    width: 500px;
-    
+    width: 650px;
+    font-size: large;
     padding: 50px;
-    margin-right: 20px;   
+    margin-right: 20px;
+
 }
 
 .contact{
-    margin-top: 20px;
-    width: 300px;
-    padding-left: 20%;
-    margin-left: 20px; 
-    text-align: center;
+    
+    ma 
+    
+   
 }
 #About{
 margin-top: 4px
 
 }
 a:hover{
-    color: blue
+    color: black
+}
+.try{
+    width: 1600;
+    
 }
