@@ -1,3 +1,49 @@
 *{
-    font-family: 'Shadows Into Light Two', cursive;
+    font-family: 'Srisakdi', cursive;
+}
+.img{
+    float: left;
+    
+}
+body{
+    background-image: url("https://panidigital.com/wp-content/uploads/2019/05/web-design.jpg");
+    background-size: aoto;
+
+}
+.test{
+    margin-left: 35%;
+    
+}
+.img{
+    border-radius: 0%;
+    margin-left: 5%;
+    width: 300px;
+    
+    padding: 50px;
+    margin: 20px; 
+}
+.name{
+    margin-left: 15%;
+}
+.exp{
+    float: right;  
+    width: 500px;
+    
+    padding: 50px;
+    margin-right: 20px;   
+}
+
+.contact{
+    margin-top: 20px;
+    width: 300px;
+    padding-left: 20%;
+    margin-left: 20px; 
+    text-align: center;
+}
+#About{
+margin-top: 4px
+
+}
+a:hover{
+    color: blue
 }
